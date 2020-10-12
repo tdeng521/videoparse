@@ -1,0 +1,2 @@
+# videoparse
+使用ffmpeg获取视频的基本信息，并以pybind11封装为python扩展库
